@@ -1,0 +1,3 @@
+[submodule "rust-example"]
+	path = rust-example
+	url = https://gist.github.com/RandyMcMillan/3dc43efd409109ce1720e5355e83cc60
